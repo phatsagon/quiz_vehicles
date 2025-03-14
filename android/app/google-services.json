@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723124490545",
+    "project_id": "phatsagon-55c1a",
+    "storage_bucket": "phatsagon-55c1a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723124490545:android:0e3d8bdebde73ce5942010",
+        "android_client_info": {
+          "package_name": "com.example.work"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbgmUfqWQP3b5CBzED7wNOrzkrv3yCy8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
